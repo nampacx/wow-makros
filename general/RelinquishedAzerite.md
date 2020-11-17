@@ -1,8 +1,12 @@
 **Buy Relinquished Azerite Items:**
 Adjust ids
+
 Tank + DPS 3,4,5
+
 Heal + DPS 3,4,5
+
 Tank + DPS + Heal 4,5,6
+
 ```
 /script BuyMerchantItem(3)
 /script BuyMerchantItem(4)
