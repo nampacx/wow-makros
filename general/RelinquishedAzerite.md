@@ -20,3 +20,8 @@ using just to maximes gold (Chestpieces give more gold):
 /use Relinquished Azerite Helm
 /use Relinquished Azerite Spaulders
 ```
+**Extra lazy:**
+```
+/use Relinquished Azerite Chestpiece
+/script BuyMerchantItem(5)
+```
